@@ -85,6 +85,16 @@
           "command": "extension.viewOnHost",
           "group": "navigation@1"
         }
+      ],
+      "editor/context": [
+        {
+          "command": "extension.viewInBrowser",
+          "group": "navigation@1"
+        },
+        {
+          "command": "extension.viewOnHost",
+          "group": "navigation@1"
+        }
       ]
     }
   },
